@@ -1,2 +1,4 @@
 # hello-world
-Test
+Hi,
+Im tired, need to learn coding.
+Test over.
